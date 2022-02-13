@@ -9,8 +9,7 @@ pipeline {
             dotnet add package Microsoft.Playwright
             dotnet build
             pwsh bin/Debug/netcoreapp3.1/playwright.ps1 install
-            '''
-            sh '''
+            
             cat << EOF > Program.cs
 using Microsoft.Playwright;
 using System.Threading.Tasks;
@@ -27,8 +26,8 @@ class Program
     }
 }
 EOF
+            dotnet run
             '''
-            sh 'dotnet run'
          }
       }
    }
