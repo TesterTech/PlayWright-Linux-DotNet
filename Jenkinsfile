@@ -4,7 +4,7 @@ pipeline {
       stage('e2e-tests') {
          steps {
             sh '''
-            dotnet new console -n PlayWright
+            dotnet new console -n PlayWright --force
             cd PlayWright
             dotnet add package Microsoft.Playwright
             dotnet build
