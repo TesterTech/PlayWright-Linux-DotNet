@@ -2,21 +2,15 @@
 Demo of PlayWright Linux DotNet 
 
 ## Introduction
-For this video I wanna change it up a little bit.
+For this video I want to change it up a little bit.
 
-We've already had tools running in node, python, java, webbased.. so why not
-change it up a little bit by using something different.
+I've already shown tools running in Node, Python, Java, Webbased.. so why not change it up a little bit by using something different.
 
-Since we are looking at PlayWright, which is developped by Microsoft, why don't
-we look into that eco system for a little.
+Since we are looking at PlayWright, which is developped by Microsoft, why don't we look into that eco system for a little.
 
-Don't worry I'm not going to run it in Windows alone, since my channel likes to
-advocate Linux as a allround developer system I will run PlayWright in DotNet in
-Linux.
+Don't worry I'm not going to run it in Windows alone, since my channel likes to advocate Linux as a allround developer system I will run PlayWright in DotNet in Linux.
 
-To demonstrate how to get started with DotNet on Fedora I will head over to the
-awesome Fedora magazine where there was an article some time ago that showed
-how to get started with DotNet on Fedora.
+To demonstrate how to get started with DotNet on Fedora I will head over to the awesome Fedora magazine where there was an article some time ago that showed how to get started with DotNet on Fedora.
 
 ## References 
 - https://fedoramagazine.org/set-up-a-net-development-environment/
