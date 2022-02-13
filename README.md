@@ -20,5 +20,7 @@ how to get started with DotNet on Fedora.
 
 ## References 
 - https://fedoramagazine.org/set-up-a-net-development-environment/
+- https://fedoramagazine.org/install-powershell-on-fedora-linux/
 - https://playwright.dev/dotnet/
+- if you have issues with dotnet (I had some on the Jenkins machine) https://docs.microsoft.com/en-us/dotnet/core/install/linux-scripted-manual#scripted-install
 
