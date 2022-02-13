@@ -7,6 +7,7 @@ pipeline {
             dotnet new console -n PlayWright
             cd PlayWright
             dotnet add package Microsoft.Playwright
+            dotnet build
             pwsh bin/Debug/netcoreapp3.1/playwright.ps1 install
             '''
             sh '''
